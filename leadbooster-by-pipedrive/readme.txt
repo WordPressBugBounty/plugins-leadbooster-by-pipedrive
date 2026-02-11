@@ -2,7 +2,7 @@
 Contributors: pditops, bootiq
 Tags: pipedrive, customer, chat, live chat, livechat, sales, marketing
 Requires at least: 4.5
-Tested up to: 6.6
+Tested up to: 6.9
 Stable tag: 1.1.1
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -43,7 +43,7 @@ LeadBooster JS snippets are available thought your dashboard on [pipedrive.com](
 
 = Tested versions of WordPress =
 
-Functionality of this plugin was tested on versions: 4.5.17, 4.6.14, 4.7.13, 4.8.9, 4.9.10, 5.0.4, 5.1.1, 5.2.1, 5.3.2, 5.4-RC1, 5.8.2, 5.9.3, 6.0.1, 6.1.1, 6.2, 6.3, 6.4.2, 6.5, 6.6 and multisite network installation of WP 5.2 (in the "subdirectory" configuration).
+Functionality of this plugin was tested on versions: 4.5.17, 4.6.14, 4.7.13, 4.8.9, 4.9.10, 5.0.4, 5.1.1, 5.2.1, 5.3.2, 5.4-RC1, 5.8.2, 5.9.3, 6.0.1, 6.1.1, 6.2, 6.3, 6.4.2, 6.5, 6.6, 6.9 and multisite network installation of WP 5.2 (in the "subdirectory" configuration).
 
 == Screenshots ==
 
