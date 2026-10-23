@@ -2,7 +2,7 @@
 Contributors: pditops, bootiq
 Tags: pipedrive, customer, chat, live chat, livechat, sales, marketing
 Requires at least: 4.5
-Tested up to: 6.9
+Tested up to: 7.0
 Stable tag: 1.1.1
 Requires PHP: 5.6
 License: GPLv2 or later
